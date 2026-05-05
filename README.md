@@ -14,12 +14,13 @@ The analysis highlights structural risks (market concentration) and inefficienci
 
 ## Tools Used
 - Python (Pandas, Matplotlib)
-- Data cleaning & aggregation
-- Business KPI analysis
+- Data cleaning & transformation
+- Exploratory data analysis
+- Business KPI reporting
 
 ## Deliverables
-- Executive presentation (PDF)
-- Data analysis notebook
+- 📄 [Executive Report (PDF)](reports/Retail_Sales_Performance_Analysis_Oreoluwa_Kushimo.pdf)
+- 📓 [Jupyter Notebook](notebooks/retail_sales_analysis.ipynb)
 
 ## Key Skills Demonstrated
 - Translating data into business insights
