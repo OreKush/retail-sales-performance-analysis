@@ -1,5 +1,5 @@
 # Retail Sales Performance Analysis
-
+Transforming large-scale retail transaction data into actionable business insights and strategic recommendations.
 ## Overview
 This project analyses large-scale retail transaction data to identify key drivers of revenue, performance trends, and operational inefficiencies.
 
